@@ -1,16 +1,16 @@
-# Directory Tree Printer
+# Tree Getter
 
 Este script em Python imprime a estrutura de diretórios e arquivos de forma hierárquica, semelhante ao comando `tree` do Linux.  
 Ele ignora pastas `.git` e diretórios de cache (`__pycache__`).
 
 ---
 
-## 📦 Requisitos
+## Requisitos
 - Python 3.x (não requer bibliotecas externas)
 
 ---
 
-## 🚀 Como usar
+## Como usar
 1. Salve o script em um arquivo, por exemplo: `print_tree.py`.
 2. No terminal, execute:
    ```bash
